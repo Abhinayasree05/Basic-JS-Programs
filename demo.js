@@ -20,6 +20,6 @@ switch (day){
         console.log("Friday");
         break;   
     case 7:
-        console.log("Saturday");
+        console.log("Saturday")
         break;
 }
